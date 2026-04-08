@@ -59,67 +59,67 @@ const certifications = [
   {
     tag:  "Programación",
     name: "Lógica de Programación: Sumérgete en JavaScript",
-    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-sumergeteprogramacion-javascript/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-sumergete-programacion-javascript/formalCertificate",
   },
   {
     tag:  "Programación",
     name: "Lógica de Programación: Explora Funciones y Listas",
-    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-explorarfunciones-listas/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-explorar-funciones-listas/formalCertificate",
   },
   {
     tag:  "Programación",
     name: "Challenge: Amigo Secreto",
-    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-challengeamigo-secreto/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/logica-programacion-challenge-amigo-secreto/formalCertificate",
   },
   {
     tag:  "Git",
     name: "Git & GitHub: Repositorio, Commit y Control de Versiones",
-    url:  "https://app.aluracursos.com/user/pogan147/course/git-github-repositorio-commitversiones/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/git-github-repositorio-commit-versiones/formalCertificate",
   },
   {
     tag:  "Web",
     name: "HTML y CSS: Estructura de Archivos y Etiquetas",
-    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-desarrollo-estructuraarchivos-tags/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-desarrollo-estructura-archivos-tags/formalCertificate",
   },
   {
     tag:  "Web",
     name: "HTML y CSS: Clases, Posicionamiento y Flexbox",
-    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-clases-posicionamientoflexbox/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-clases-posicionamiento-flexbox/formalCertificate",
   },
   {
     tag:  "Web",
     name: "HTML y CSS: Header, Footer y Variables CSS",
-    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-header-footer-variablescss/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-header-footer-variables-css/formalCertificate",
   },
   {
     tag:  "Web",
     name: "HTML y CSS: Responsividad y Publicación de Proyectos",
-    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-trabajando-responsividadpublicacion-proyectos/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/html-css-trabajando-responsividad-publicacion-proyectos/formalCertificate",
   },
   {
     tag:  "IA",
     name: "ChatGPT: Optimizando la Calidad de los Resultados",
-    url:  "https://app.aluracursos.com/user/pogan147/course/chatgpt-optimizando-calidadresultados/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/chatgpt-optimizando-calidad-resultados/formalCertificate",
   },
   {
     tag:  "Soft Skills",
     name: "Aprender a Aprender: Técnicas de Autodesarrollo",
-    url:  "https://app.aluracursos.com/certificate/pogan147/aprender-a-aprender-tecnicasautodesarrollo",
+    url:  "https://app.aluracursos.com/certificate/pogan147/aprender-a-aprender-tecnicas-autodesarrollo",
   },
   {
     tag:  "Soft Skills",
     name: "Hábitos Productivos para Alcanzar Metas Personales",
-    url:  "https://app.aluracursos.com/user/pogan147/course/habitos-productivo-metaspersonales/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/habitos-productivos-metas-personales/formalCertificate",
   },
   {
     tag:  "Soft Skills",
     name: "Foco: Hábito del Día a Día",
-    url:  "https://app.aluracursos.com/user/pogan147/course/foco-habito-dia-adia/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/foco-habito-dia-a-dia/formalCertificate",
   },
   {
     tag:  "LinkedIn",
     name: "LinkedIn: Haz que tu Perfil Trabaje por Ti",
-    url:  "https://app.aluracursos.com/user/pogan147/course/linkedin-hacer-perfil-trabaje-porti/formalCertificate",
+    url:  "https://app.aluracursos.com/user/pogan147/course/linkedin-hacer-perfil-trabaje-por-ti/formalCertificate",
   },
 ];
 
